@@ -31,7 +31,7 @@ After first discussion, We easily managed to work our way through the diffrent s
   Agenda of the meeting   : Discussion about the AutoTime Notifier
   Location of the meeting : Zoom call
   Time span of the meeting: 2:30 - 3:15 pm
-- Started with discussion about how it will help the gener
+- Discussion about how Docket will help the majority of web users
 - 
   
   
