@@ -24,14 +24,14 @@ After first discussion, We easily managed to work our way through the diffrent s
 - The first project idea we decided on was Speechify, using Text to Speech technology to convert webpage text to audio.
 - Aimed at helping users who prefer to listen content instead of hearing, people with dsylexia or other learning disabilities, children learning to read.
 - Researched about the topic and looked into the necessary technology skills required to achieve it.
-- Reached the conclusion that it is doable but not for a group of 2 students within the given time frame with several other work commitments.
+- Conclusion : We find the topic interesting and doable but not within the given time frame with several other work commitments for both students.
 - Decided to pursue another idea we called as Docket (To- Do list).
 
 ### Meeting 2 (26 September 2022)
   Agenda of the meeting   : Discussion about the AutoTime Notifier
   Location of the meeting : Zoom call
   Time span of the meeting: 2:30 - 3:15 pm
-- Discussion about how Docket will help the majority of web users
+- Discussion about how Docket will help the majority of web users who need information
 - 
   
   
