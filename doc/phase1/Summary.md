@@ -16,7 +16,7 @@ While browsing, use this extension to organize your work and life. It allows use
 Plan your day and finish tasks in the browser. Don't forget to check off completed tasks.
 
 ## Why Docket?
-Docket is useful for people who like to organize, plan ahead, or do something later but forget about it later. It functions as a simple todo list, which is preferred by most organizations for neat and orderly work. Since it also serves as a reminder to not miss deadlines. Docket helps users manage their tasks while online browsing, doing research, studying, shopping, and other activities.
+Docket is useful for people who like to organize, plan ahead, or do something later but forget about it later. It functions as a simple to-do list, which is preferred by most organizations for neat and orderly work. Since it also serves as a reminder to not miss deadlines. Docket helps users manage their tasks while online browsing, doing research, studying, shopping, and other activities.
 
 ### User Reviews :
 1.  Great reminder tool! Saves the usage of sticky notes and mess I used to make.  
@@ -31,7 +31,7 @@ The Docket extension would be built in three phases:
 3. Customization and Appearance.
 
 ### Design and Requirements
-The first step would be to design the architecture as well as research the working requirements of a todo list from similar extensions and APIs. This phase informs us about the required permissions, the structure of a To Do List extension, working API knowledge, and the management of browser sites/tabs.  
+The first step would be to design the architecture as well as research the working requirements of a to-do list from similar extensions and APIs. This phase informs us about the required permissions, the structure of a To Do List extension, working API knowledge, and the management of browser sites/tabs.  
 
 ### Code and Development.
 The second phase would involve working on the prototype extension's development. In this step, we apply our design knowledge to create an extension model that works with all of the functionality mentioned. The majority of the coding is done here.
