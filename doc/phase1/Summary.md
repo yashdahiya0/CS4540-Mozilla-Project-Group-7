@@ -11,7 +11,7 @@ An extension to organize work and life while browsing. It helps the users captur
 - Add a blog post to your list. 
 - Save an item to your list. 
 - Add work tasks to follow up on.
-- REmind users about their task list.
+- Remind users about their task list.
 
 Plan your day & Complete tasks from the browser. Once your tasks are done, check them off.
 
