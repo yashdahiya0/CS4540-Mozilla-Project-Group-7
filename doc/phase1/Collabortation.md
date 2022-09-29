@@ -12,39 +12,39 @@ This document supplies intuitiveness into our collaborative work as a group for 
 2. Skills    : Web Development Front End, Machine Learning, Python, Computer Vision, Game Development.
 3. Experience: Multiple websites and applications projects, Ai and Game Controllers Developer, Software projects with python. 
   
-Initially, we had various conflicts due to various task hours, class timings, medical history that does not allow one member to have long hours of computer screen time. 
+Initially, we had a number of conflicts due to different task hours, class times, and medical histories that prevented one member from spending long periods of time in front of a computer screen.
 
 ## Meeting Info
-After first discussion, We easily managed to work our way through the different schedule conflicts since both members are roommates and decided to start work on the phase 1 of the project for CS4540.
+After the initial discussion, we easily worked our way through the various schedule conflicts because both members are roommates and decided to begin work on phase 1 of the project for CS4540.
 
 ### Meeting 1 (21 September 2022)
  1. Agenda of the meeting   : Coming up with a project idea
  2. Location of the meeting : Housing Apartment
  3. Time span of the meeting: 10:30 - 11:30 pm
-- The first project idea we decided on was Speechify, using Text to Speech technology to convert webpage text to audio.
-- Aimed at helping users who prefer to listen content instead of hearing, people with dsylexia or other learning disabilities, children learning to read.
-- Researched about the topic and looked into the necessary technology skills required to achieve it.
-- Conclusion : We found the topic interesting and doable but not within the given time frame with several other work commitments for both students.
-- Decided to pursue another idea we called as Docket (To- Do list).
+- Our first project idea was Speechify, which uses Text to Speech technology to convert webpage text to audio. 
+- Intended to assist users who prefer to listen to content rather than hear it, people with dyslexia or other learning disabilities, and children learning to read. 
+- Investigated the topic and the necessary technological skills required to achieve it. 
+- Conclusion: We found the topic interesting and doable, but not within the time frame allotted because both students had other work commitments. 
+- We decided to pursue another concept known as Docket (To- Do list).
 
 ### Meeting 2 (26 September 2022)
  1. Agenda of the meeting   : Discussion about Docket
  2. Location of the meeting : Zoom call
  3. Time span of the meeting: 2:30 - 4:00 pm
-- Discussion about how Docket will help the majority of web users that like to organize, plan ahead, or want to do something later but don't want to forget about it.
-- Common concept used by people but mostly by writing it down. Docket will save them time, space and energy.
-- Researched into the necessary tools required to build this project within the given time frame.
-- Discussion about which group member will work on what part of the project for timely completion.
-- Went through some existing to-do list apps or extension that exist to get a better knowledge of what to include in our project to provide users the best web browsing experience.
-- Planned to have meetings twice a week in person in the upcoming months to work on the phase 2 of the project with regular communication between both the team members to clarify any doubts, disagreements.
-- Conclusion : Committed on the topic Docket for our FireFox Extension project for CS 4540.
+- A discussion of how Docket will benefit the vast majority of web users who like to organize, plan ahead, or do something later but don't want to forget about it. 
+- People use this concept frequently, but mostly by writing it down. They will save time, space, and energy by using Docket. 
+- Investigated the tools required to complete this project within the time frame specified. 
+- Discuss which group members will work on which parts of the project in order to complete it on time. 
+- I went through some existing to-do list apps or extensions to get a better idea of what to include in our project to provide the best web browsing experience for users.
+- In the coming months, it is planned to hold in-person meetings twice a week to work on phase 2 of the project, with regular communication between both team members to clarify any doubts or disagreements. 
+- Conclusion: Committed to the topic Docket for our CS 4540 FireFox Extension project.
 
 ## Divison of work
- All current and future collaboration work to be done through github.
- The entire work is to be divided equally between both the students for the different build phases for the project:
-1. Design and Requirement
-2. Code and Development
-3. Customization and Appearance.
+All current and future collaboration work will be handled via github. 
+For the various build phases of the project, the entire work is to be divided equally between both students: 
+1. Design and specifications 
+2. Development and Coding 
+3. Personalization and Appearance
 
 
 
