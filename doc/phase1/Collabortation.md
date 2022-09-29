@@ -1,4 +1,4 @@
-This document provides insight into our collabroative work as a team for the given project work.
+This document supplies intuitiveness into our collaborative work as a group for the likely project work.
 
 ## Team Information
 
@@ -12,10 +12,10 @@ This document provides insight into our collabroative work as a team for the giv
 2. Skills    :
 3. Experience:
   
-Initially, we had several conflicts due to different job hours, class timings, medical history which does not allow one team member to spend adequate time on computer screen. 
+Initially, we had various conflicts due to various task hours, class timings, medical history that does not allow one member to have long hours of computer screen time. 
 
 ## Meeting Info
-After first discussion, We easily managed to work our way through the diffrent schedule conflicts since both members are roommates and decided to start work on the phase 1 of the project for CS4540.
+After first discussion, We easily managed to work our way through the different schedule conflicts since both members are roommates and decided to start work on the phase 1 of the project for CS4540.
 
 ### Meeting 1 (21 September 2022)
  1. Agenda of the meeting   : Coming up with a project idea
