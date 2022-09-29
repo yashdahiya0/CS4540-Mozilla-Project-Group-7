@@ -34,7 +34,7 @@ The Docket extension would be built in three phases:
 The first step would be to design the architecture as well as research the working requirements of a todo list from similar extensions and APIs. This phase informs us about the required permissions, the structure of a To Do List extension, working API knowledge, and the management of browser sites/tabs.  
 
 ### Code and Development.
-Second phase would be the working on the development of the prototype extension. In this step, we apply the knowledge gained in design and create a extension model which works with 100% functionality mentioned. Most of the coding is done here. 
+The second phase would involve working on the prototype extension's development. In this step, we apply our design knowledge to create an extension model that works with all of the functionality mentioned. The majority of the coding is done here.
 
 ### Customization and Appearance.
 In the last step, we work on CSS and styles of the extension to make it fancy and easier to use. This is the phase that helps release the final product with a simple appearance that is easy to use and compatible with most websites.
