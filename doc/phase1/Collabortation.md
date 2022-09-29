@@ -8,9 +8,9 @@ This document supplies intuitiveness into our collaborative work as a group for 
 3. Experience: Several personal projects using Python, Creating a web application for a client from scratch.
  
 - Yash Dahiya
-1. Strength  :
-2. Skills    :
-3. Experience:
+1. Strength  : Team Player, Creative Thinker, Flexible, Hard Worker.
+2. Skills    : Web Development Front End, Machine Learning, Python, Computer Vision, Game Development.
+3. Experience: Multiple websites and applications projects, Ai and Game Controllers Developer, Software projects with python. 
   
 Initially, we had various conflicts due to various task hours, class timings, medical history that does not allow one member to have long hours of computer screen time. 
 
