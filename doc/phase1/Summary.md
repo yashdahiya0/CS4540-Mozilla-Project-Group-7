@@ -37,8 +37,8 @@ The first step would be to design the architecture as well as research the worki
 The second phase would involve working on the prototype extension's development. In this step, we apply our design knowledge to create an extension model that works with all of the functionality mentioned. The majority of the coding is done here.
 
 ### Customization and Appearance.
-In the last step, we work on CSS and styles of the extension to make it fancy and easier to use. This is the phase that helps release the final product with a simple appearance that is easy to use and compatible with most websites.
+In the final step, we work on the extension's CSS and styles to make it more aesthetically pleasing and user-friendly. This is the phase that contributes to the final product having a simple appearance that is easy to use and compatible with the majority of websites.
 
 ---------------------
 ## Work Division
-Since this group consists of two members, work would be divided equally. With mutual help and coordination, all the phases should be feasible with the expertise of both team members. 
+Work would be divided equally among the two members of this group. With the expertise of both team members, all phases should be feasible with mutual assistance and coordination.
