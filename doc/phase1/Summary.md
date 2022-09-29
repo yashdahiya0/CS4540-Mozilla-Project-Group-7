@@ -6,13 +6,12 @@
 The title of our project is Docket (To-do list / Checklist).
 
 ## Description 
-While browsing, use this extension to organize your work and life. It allows users to capture and organize tasks as they come to mind. Also, remind deadlines and due dates with respective tasks. It functions similarly to a simple to-do list and includes the following features:
+While browsing, use this extension to organize your work and life. It allows users to capture and order tasks as they come to mind. Also, remind deadlines and due dates with respective lists. It functions similarly to a simple to-do list and includes the following features:
 - Create websites as tasks.
 - Include a blog post in your list.
 - Add something to your list.
 - Add work tasks to monitor.
-- Remind users of upcoming deadlines and payments.
-Plan your day and finish tasks in the browser. Don't forget to check off completed tasks.
+Remind users of upcoming deadlines and payments. Plan your day and finish tasks in the browser. Don't forget to check off completed tasks.
 
 ## Why Docket?
 Docket is useful for people who like to organize, plan, or do something later but forget about it later. It functions as a simple to-do list, which is preferred by most organizations for neat and orderly work. Since it also serves as a reminder to not miss deadlines. Docket helps users manage their tasks while online browsing, doing research, studying, shopping, and other activities.
