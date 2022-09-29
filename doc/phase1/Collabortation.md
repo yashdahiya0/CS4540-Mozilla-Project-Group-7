@@ -3,14 +3,14 @@ This document provides insight into our collabroative work as a team for the giv
 ## Team Information
 
 1. Siddharth Dahiya
- Strength. : Ability to multitask, TeamPlayer, Love of Learning, Adaptibility, Curiosity.
- Skills.   : Python, Selenium, Node.js, JavaScript, Machine Learning, MySql, PyTorch
- Experience: 0-1 yr Quality Assurance cum Software Developer Engineer, 0-1 yr Web Development, 1 yr Machine Learning Engineer.
+-Strength. : Ability to multitask, TeamPlayer, Love of Learning, Adaptibility, Curiosity.
+-Skills.   : Python, Selenium, Node.js, JavaScript, Machine Learning, MySql, PyTorch
+-Experience: 0-1 yr Quality Assurance cum Software Developer Engineer, 0-1 yr Web Development, 1 yr Machine Learning Engineer.
  
 2. Yash Dahiya
-  Strength  :
-  Skills    :
-  Experience:
+ -Strength  :
+ -Skills    :
+ -Experience:
   
 Initially, we had several conflicts due to different job hours, class timings, medical history which does not allow one team member to spend aqequate time on computer screen. 
 
