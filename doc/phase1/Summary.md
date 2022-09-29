@@ -16,7 +16,7 @@ While browsing, use this extension to organize your work and life. It allows use
 Plan your day and finish tasks in the browser. Don't forget to check off completed tasks.
 
 ## Why Docket?
-Docket is useful for people who like to organize, plan ahead, or do something later but forget about it later. It functions as a simple todo list, which is required and preferred by most organizations for neat and orderly work. Since it also serves as a reminder to not miss deadlines. Docket helps users manage their tasks while online browsing, doing research, studying, shopping, and other activities.
+Docket is useful for people who like to organize, plan ahead, or do something later but forget about it later. It functions as a simple todo list, which is preferred by most organizations for neat and orderly work. Since it also serves as a reminder to not miss deadlines. Docket helps users manage their tasks while online browsing, doing research, studying, shopping, and other activities.
 
 ### User Reviews :
 1.  Great reminder tool! Saves the usage of sticky notes and mess I used to make.  
