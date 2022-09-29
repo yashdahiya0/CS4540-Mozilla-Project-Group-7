@@ -3,6 +3,7 @@
 ----------------------
 
 ## Topic 
+The topic of our project is Docket (To do list/ Checklist).
 
 ## Description 
 
