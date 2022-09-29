@@ -39,5 +39,6 @@ Second phase would be the working on the development of the prototype extension.
 ### Customization and Appearance.
 In the last step, we work on CSS and styles of the extension to make it fancy and easier to use. This is the phase that helps release the final product with a simple appearance that is easy to use and compatible with most websites.
 
+---------------------
 ## Work Division
-
+Since this group consists of two members, work would be divided equally. With mutual help and coordination, all the phases should be feasible with the expertise of both team members. 
