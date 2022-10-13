@@ -6,5 +6,7 @@ Group members:
 - Siddharth Dahiya
 
 
-Doc contains PHASE 1 and PHASE 2 documentation
+Doc contains PHASE 1 and PHASE 2 documentation.
+
+
 Protoype contains the model.
