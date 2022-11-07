@@ -1,0 +1,44 @@
+
+body{width: 250px; background-color: white; color: black;}
+
+.todo-items{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.todo-items li{
+    padding: 5px;
+    border-bottom: 2px solid grey;
+    display: flex;
+    justify-content: space-between;
+}
+
+.todo-items li:hover{
+    background-color: rgb(180, 180, 180);
+}
+
+.buttons{
+    margin: 2.5px;
+    font-size: 1em;
+    cursor: pointer;
+}
+
+.high{
+    border: 2px solid red;
+    color: red;
+}
+
+.normal{
+    border: 2px solid yellow;
+    color: yellow;
+}
+
+.low{
+    border: 2px solid green;
+    color: green;
+}
+
+.done{
+    text-decoration: line-through;
+}
