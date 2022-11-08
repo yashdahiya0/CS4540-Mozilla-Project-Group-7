@@ -2,18 +2,19 @@
     <head>
         <meta charset="UTF-8">
         <title>Docket</title>
-        <script src="docket.js"></script>
         <link rel="stylesheet" href="styles.css">
     </head>
     <body>
-        <h1>MY TASKS</h1>
+        <h2>MY TASKS</h2>
+        <div id="date"></div>
         <div class="add-item">
-            <input type="text">
-            <button>SAVE</button>
+            <input type="text" id="myInput" placeholder="Add new task here...">
+            <button id="addListItem">SAVE</button>
         </div>
         <div>     
-            <ul class="todo-items">
+            <ul class="myUL">
             </ul>
         </div>        
+        <script src="docket.js"></script>
     </body>
 </html>
