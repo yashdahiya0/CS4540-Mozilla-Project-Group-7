@@ -9,4 +9,4 @@ Group members:
 Doc contains PHASE 1 and PHASE 2 documentation.
 
 
-Protoype contains the model.
+DOCKET contains protoype for the main model.
