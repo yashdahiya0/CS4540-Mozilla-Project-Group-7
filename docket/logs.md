@@ -25,3 +25,8 @@
 
 ### version 0.2.1
 - Added a clean up button which would remove data from the local storage and empty it
+- fixed bug error which resulted in mismatches
+- cleaned up bugs for functionality
+
+### version 0.2.2
+- working on it.
