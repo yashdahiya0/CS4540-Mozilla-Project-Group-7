@@ -1,0 +1,21 @@
+{
+    "name": "Docket",
+    "version": "0.2.0",
+    "description": "A simple task list extension",
+    "manifest_version": 2,
+    
+    "icons": {
+        "48": "icons/icon-48.png"
+    },
+
+    "browser_action": {
+        "default_icon": "icons/icon-48.png",
+        "default_title": "Docket",
+        "default_popup": "docket.html"
+    },
+
+    "permissions": [
+        "<all_urls>", "storage"
+    ]
+
+}
