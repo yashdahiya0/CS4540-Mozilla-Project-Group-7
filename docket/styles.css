@@ -21,7 +21,7 @@ body {
 input[type=text],
 input[type=text]:focus {
     color:rgb(0, 0, 0);
-    border:none;
+    border: 2px solid white;
     background: rgba(238, 233, 163, 0.733);
     max-width: 400px;
 }
@@ -60,4 +60,12 @@ input[type=text]:focus {
 .done {
     background-color: rgb(238, 241, 11);
     text-decoration: line-through;
+}
+
+.clear{
+    width : 30px;
+    height: 30px;
+    position: absolute;
+    right:7px;
+    top: 10px;
 }
