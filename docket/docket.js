@@ -3,7 +3,7 @@ const list = document.querySelector('.list');
 const dateElement = document.getElementById("date");
 const options = {weekday : "long", month:"short", day:"numeric"};
 const today = new Date();
-
+ 
 dateElement.innerHTML = today.toLocaleDateString("en-US", options);
 
 const generateTemplate = (todo) => {
@@ -41,4 +41,4 @@ list.addEventListener('click', e => {
     }
 });
 
-
+//create function to save the queries in local storage.

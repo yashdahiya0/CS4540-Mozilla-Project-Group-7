@@ -1,17 +1,21 @@
 body {
     background: #cc7134;
+    width: 300px;
 }
 .container {
     max-width: 400px;
     justify-content: center;
 }
-
+ 
 .header{
     text-align: center;
     text-transform: uppercase;
     color: #fff;
     font-family: cursive;
-    font-size: 90%;
+}
+
+.ph{
+    font-size: 35px;
 }
 
 input[type=text],
@@ -22,9 +26,19 @@ input[type=text]:focus {
     max-width: 400px;
 }
 
+.form{
+    float: none;
+    position: absolute;
+    top: 100px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
 .list{
     list-style: none;
     background: rgb(238, 233, 163);
+    font-size: 1em;
 }
 
 .delete {
@@ -34,13 +48,16 @@ input[type=text]:focus {
 .item{
     display: flex;
     justify-content: space-between;
+    font-size: 1em;
 
 }
-.item:hover{
-    color:#ffffff;
+
+.info:hover{
+    color: chartreuse;
     cursor: pointer;
 }
 
 .done {
+    background-color: rgb(238, 241, 11);
     text-decoration: line-through;
 }
