@@ -12,6 +12,9 @@ Starting from scratch, we built the base model files for Docket using the defaul
 ## Version 0.2.0 - 0.2.5
 Next, we worked on finishing up the rough patches of the previous versions and worked on Docket to able to provide a finished prototype that enables half of the functionalities we promised in final version. We further added a clean up button which is able to remove data from the local storage and empty it. Worked on cleaning a few bugs that resulted in mismatch error. Asked storage permission to further utilize the docket and have the items stay inside the model and not disappear after outside clicking. created flags for tasks created such as done removed etc. Using local storage as access we are enable to utilize the designed checklist for a good view.
 
+## Version 0.3.0
+In the next version of the docket we are working on edit and priority buttons and trying to enable drag and drop while search as well
+
 ## Functionality
 - Base HTML/CSS : done
 - Script to work functions : done
