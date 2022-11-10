@@ -31,7 +31,9 @@ In the next version of the docket we are working on edit and priority buttons an
 ## Issues Dealt
 - Storage wasnt always working or functioning properly.
 - Remove all(clear button) was always active irrespective of our preference.
-- Encountered a design time bug which resulted in not proper functioning.
+- Redesigning and E- Modelling.
+
+
 ## Strength
 - Docket is very simple and easy to use.
 - It is a very efficient design allowing users to easily make a checklist or to do list.
