@@ -68,4 +68,5 @@ input[type=text]:focus {
     position: absolute;
     right:7px;
     top: 10px;
+    cursor: pointer;
 }
