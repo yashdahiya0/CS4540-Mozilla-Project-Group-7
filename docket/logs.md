@@ -29,4 +29,18 @@
 - cleaned up bugs for functionality
 
 ### version 0.2.2
-- working on it.
+- created flags to use local storage
+- fixed bugs where input and buttons would swap
+
+### version 0.2.3
+- Redesigned css and fixed a few items to improve UI
+
+### version 0.2.5
+- fixed local storage functionality
+- improved flags utilization
+
+### version 0.3.0
+- Working on edit and priority buttons
+- also trying to enable drag and drop while search as well.
+
+
