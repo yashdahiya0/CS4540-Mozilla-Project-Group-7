@@ -25,12 +25,12 @@ Next, we worked on finishing up the rough patches of the previous versions and w
 - edit the color scheme to match background for CSS : not done
 - drag and drop feature: not done
 
-## strengths
+## Strength
 - simple and easy to use
 - efficient design
 - user friendly
 
-## weakness
+## Weakness
 - in process of development
 - readability issue
 
