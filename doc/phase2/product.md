@@ -1,6 +1,6 @@
 # Short Report
 
-This report contains information about Docket extension.
+This short report contains information about Docket extension.
 1. It answers the question about what we have achieved in building Docket so far. 
 2. The decisions or issues we had to deal with currently as well as anticipated. 
 3. Promising progress towards our end goal. 
@@ -28,6 +28,10 @@ In the next version of the docket we are working on edit and priority buttons an
 - edit the color scheme to match background for CSS : not done
 - drag and drop feature: not done
 
+## Issues Dealt
+- Storage wasnt always working or functioning properly.
+- Remove all(clear button) was always active irrespective of our preference.
+- Encountered a design time bug which resulted in not proper functioning.
 ## Strength
 - Docket is very simple and easy to use.
 - It is a very efficient design allowing users to easily make a checklist or to do list.
