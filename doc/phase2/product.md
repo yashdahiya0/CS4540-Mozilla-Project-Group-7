@@ -20,18 +20,18 @@ In the next version of the docket we are working on edit and priority buttons an
 - Script to work functions : done
 - Input and adding tasks : done
 - Checking or highlighting completion of tasks : done
-- remove completed/unwanted tasks : done
-- remove all button : done
-- edit the task details : in progress
+- Remove completed/unwanted tasks : done
+- Remove all button : done
+- Edit the task details : in progress
 - Priority enabled tasks : in progress
-- reminder based tasks : not done
-- edit the color scheme to match background for CSS : not done
-- drag and drop feature: not done
+- Reminder based tasks : not done
+- Edit the color scheme to match background for CSS : not done
+- Drag and drop feature: not done
 
 ## Issues Dealt
 - Storage wasnt always working or functioning properly.
 - Remove all(clear button) was always active irrespective of our preference.
-- Redesigning and E- Modelling.
+- Redesigning and Remodelling.
 
 
 ## Strength
@@ -40,8 +40,8 @@ In the next version of the docket we are working on edit and priority buttons an
 - Docket is user friendly. Since, Docket is made using a very efficient design. It is very user friendly.
 
 ## Weakness
-- in process of development
-- readability issue
+- In process of development
+- Readability issue
 
 
 
