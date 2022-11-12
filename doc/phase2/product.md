@@ -43,6 +43,10 @@ In the next version of the docket we are working on edit and priority buttons an
 - In process of development
 - Readability issue
 
+## Triage: What we wish to build for the final demo
+Currently, we only have Docket working properly with only few of the many functionalities that we wish to embedd in it.
+For our final demo, we wish to have all the functionalities working and be able to use the Docket extension to its maximum capacity as a To-do list.
+
 
 
 
