@@ -25,14 +25,14 @@ clear.addEventListener("click", function(){
     location.reload();
 });
 
-function generateTemplate(item, id, done, remove){
+function generateTemplate(item, id, done, remove, priority){
     
     if(remove) {return;}
-
     const D = done ? 'done' : '';
-
+    const P = priority ? 'priority' : '';
     const html= `
     <li class="item">
+        <span class="heart ${P}" id="${id}">♥</span>
         <span class="info ${D}" id="${id}">${item}</span>
         <span class="delete" id="${id}">❌</span>
     </li>
@@ -49,12 +49,13 @@ addForm.addEventListener('submit', e => {
     const item = addForm.add.value.trim();
     if(item.length)
     {
-        generateTemplate(item, id, false, false);
+        generateTemplate(item, id, false, false, false);
         ARR.push({
-            name: item,
             id: id,
+            name: item,
             done: false,
-            remove: false
+            remove: false,
+            priority: false
         })
         localStorage.setItem("ITEMS", JSON.stringify(ARR));
         id++;
@@ -65,7 +66,7 @@ addForm.addEventListener('submit', e => {
 
 function itemname(task){
     console.log(task);
-    generateTemplate(task.name, task.id, task.done, task.remove);
+    generateTemplate(task.name, task.id, task.done, task.remove, task.priority);
 }
 
 list.addEventListener('click', e => {
@@ -92,3 +93,37 @@ list.addEventListener('click', e => {
 });
 
 
+list.addEventListener('click', e => {
+    if(e.target.classList.contains('heart'))
+    {
+        e.target.classList.toggle('priority');
+        element = e.target;
+        console.log(element);
+        ARR[element.id].priority = ARR[element.id].priority ? false : true;
+        localStorage.setItem("ITEMS", JSON.stringify(ARR));
+    }
+});
+
+var bgcolors = ["#45097e","#cc7134"];
+var lscolors = ["#A3DCEE","#EEE9A3"]
+var colorIndex = 0;
+function changeColor() {
+    var col = document.getElementById("body");
+    if( colorIndex >= bgcolors.length ) {
+        colorIndex = 0;
+    }
+    col.style.backgroundColor = bgcolors[colorIndex];
+    list.style.backgroundColor = lscolors[colorIndex];
+    colorIndex++;
+}
+
+const colorBG = document.querySelector(".edit-color");
+colorBG.addEventListener("click", function(){
+    changeColor();
+});
+
+
+//Future use when integrating applications and database
+function priorityAlert(){
+    alert("You have priority tasks left to finish!");
+}

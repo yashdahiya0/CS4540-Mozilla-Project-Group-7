@@ -36,7 +36,7 @@ input[type=text]:focus {
 
 
 .list{
-    list-style: none;
+    
     background: rgb(238, 233, 163);
     font-size: 1em;
 }
@@ -49,7 +49,6 @@ input[type=text]:focus {
     display: flex;
     justify-content: space-between;
     font-size: 1em;
-
 }
 
 .info:hover{
@@ -58,7 +57,7 @@ input[type=text]:focus {
 }
 
 .done {
-    background-color: rgb(238, 241, 11);
+    background: rgb(11, 241, 49);
     text-decoration: line-through;
 }
 
@@ -69,4 +68,25 @@ input[type=text]:focus {
     right:7px;
     top: 10px;
     cursor: pointer;
+}
+
+.edit-color{
+    width : 30px;
+    height: 30px;
+    position: absolute;
+    left:7px;
+    top: 10px;
+    cursor: pointer;
+}
+
+.heart{
+    color: black;
+}
+
+.heart:hover{
+    cursor: pointer;
+}
+
+.priority{
+    color: red;
 }
