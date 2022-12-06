@@ -1,41 +1,34 @@
 
-## Tasks
+# Tasks
 The deliverables for this phase is the presentation and demo
 1. Live demo of your project.
-
 You should prepare your demo for an audience of stakeholders. In a real-world project,  your stakeholders would be the managers and/or investors who funded your work. In an educational environment, the main product is, in a sense, yourselves; your professors, peers and the instructors who've joined us this term are interested in not just what you've built, but more importantly what you've taken from the course, and how that has informed your project and how you've collaborated on it.
 
 2. For this presentation, we would like to see:
-
 The story of what you've built;
-How you decided on this project,
-Understand who your target users are,
-Understand why your software is valuable to its users.
+- How you decided on this project,
+- Understand who your target users are,
+- Understand why your software is valuable to its users.
+ 
  3. During your demo, we will ask you a few questions.
-
 Since this is a software engineering course, you can expect us to ask:
+- Technical questions about your software
+- Questions about your understanding of your audience, and
+- How you worked together as a team
 
-Technical questions about your software
-Questions about your understanding of your audience, and
-How you worked together as a team
-Logistics
-Approximately 15 minutes per group, per the presentation, including a live demo of the work.
-All online, obviously,
+## Logistics
+- Approximately 15 minutes per group, per the presentation, including a live demo of the work.
+- All online, obviously,
 
 
-Time Frame
+## Time Frame
 The assignment is due by Tuesday, December  6th, at the beginning of the class.
-
  
 
-Criteria for Success
-Evaluation
-Your demo will be evaluated by the instructor in collaboration with the team from Mozilla.
-
- We will evaluate the following aspects of your demo:
-
- 
-
+## Criteria for Success
+### Evaluation
+### Your demo will be evaluated by the instructor in collaboration with the team from Mozilla.
+### We will evaluate the following aspects of your demo:
 - The live demonstration of your software
 - Reasonably good polish and completeness. Visible functionality should work, and be demonstrable during the presentation.
 - The team needs to be able to answer substantive technical questions about your project, including how decisions were made about what features to keep and what to discard.
