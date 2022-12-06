@@ -38,7 +38,7 @@ input[type=text]:focus {
 .list{
     
     background: rgb(238, 233, 163);
-    font-size: 1em;
+    font-size: 1.5em;
 }
 
 .delete {

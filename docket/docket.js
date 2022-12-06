@@ -75,7 +75,17 @@ list.addEventListener('click', e => {
         e.target.parentElement.remove();
         element = e.target;
         console.log(element);
-        ARR[element.id].remove = true;
+        if(ARR[element.id].priority)
+        {
+            if(ARR[element.id].done == false){
+                ARR[element.id].remove = false;
+            } else {
+                ARR[element.id].remove = true;
+            }
+
+        }else{
+            ARR[element.id].remove = true;
+        }
         localStorage.setItem("ITEMS", JSON.stringify(ARR));
     }
 });
