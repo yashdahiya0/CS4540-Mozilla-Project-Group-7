@@ -43,4 +43,13 @@
 - Working on edit and priority buttons
 - also trying to enable drag and drop while search as well.
 
+### version 0.3.1
+- scratch edit ideas because our application is based on stickynotes.
+- bugged drag and drop.
+
+### version 0.3.0
+- Made priority work.
+- fixing Drag and drop but shelfed the idea for a bit.
+
+
 
