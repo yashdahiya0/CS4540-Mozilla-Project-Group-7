@@ -6,7 +6,7 @@ Group members:
 - Siddharth Dahiya
 
 
-Doc contains PHASE 1 and PHASE 2 documentation.
+Doc contains PHASE 1, PHASE 2 and PHASE 3 documentation and Presentation.
 
 
 DOCKET contains protoype for the main model.
