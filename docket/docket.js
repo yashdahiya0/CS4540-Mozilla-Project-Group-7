@@ -114,15 +114,16 @@ list.addEventListener('click', e => {
     }
 });
 
-var bgcolors = ["#45097e","#cc7134"];
-var lscolors = ["#A3DCEE","#EEE9A3"]
+//var bgcolors = ["#45097e","#cc7134"];
+var bgcolors = ["url(icons/2.png)", "url(icons/3.png)", "url(icons/4.png)", "url(icons/1.png)"];
+var lscolors = ["#A3DCEE","#32CD32","white","#EEE9A3"];
 var colorIndex = 0;
 function changeColor() {
     var col = document.getElementById("body");
     if( colorIndex >= bgcolors.length ) {
         colorIndex = 0;
     }
-    col.style.backgroundColor = bgcolors[colorIndex];
+    col.style.backgroundImage = bgcolors[colorIndex];
     list.style.backgroundColor = lscolors[colorIndex];
     colorIndex++;
 }
